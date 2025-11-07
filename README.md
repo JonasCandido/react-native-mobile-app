@@ -1,6 +1,7 @@
 # Welcome to your Movie App 
 
-## Course that I use as reference: https://www.youtube.com/watch?v=f8Z9JyB2EIE
+## Course that I use as reference: 
+https://www.youtube.com/watch?v=f8Z9JyB2EIE
 
 ## Get started
 
